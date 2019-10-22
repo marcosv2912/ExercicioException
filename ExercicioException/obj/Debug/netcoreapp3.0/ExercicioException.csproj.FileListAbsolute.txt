@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.0\ExercicioException.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.0\ExercicioException.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.0\ExercicioException.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.0\ExercicioException.exe
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.0\ExercicioException.deps.json
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.0\ExercicioException.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.0\ExercicioException.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.0\ExercicioException.dll
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\bin\Debug\netcoreapp3.0\ExercicioException.pdb
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.0\ExercicioException.dll
+C:\Users\marcos.paixao\source\repos\ExercicioException\ExercicioException\obj\Debug\netcoreapp3.0\ExercicioException.pdb
